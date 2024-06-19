@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/api/*"
-  to = "http://bwaka-production.up.railway.app/api/:splat"
+  to = "https://bwaka-production.up.railway.app/:splat"
   status = 200
   force = true
   headers = { X-From-Netlify = "true" }
